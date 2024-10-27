@@ -10,5 +10,5 @@ This is a simulated credit card transaction dataset containing legitimate and fr
 
 
 ## Steps for run
-[Credit Card Fraud Detection with ML]() (google colab) and [web app]().
-First I run in the google colab (or in jupyter notebook local), after that download the machine learning models as ```.pkl``` pickle. Second I upload the machine learning models as ```.pkl``` pickle to Replit (or in other evironment). In my case I use these steps. Google colab [**]() and [web app]() [*main.py*]().
+[Credit Card Fraud Detection with ML]() (google colab) and [web app](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py).
+First I run in the google colab (or in jupyter notebook local), after that download the machine learning models as ```.pkl``` pickle. Second I upload the machine learning models as ```.pkl``` pickle to Replit (or in other evironment). In my case I use these steps. Google colab [**]() and [web app](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py) [*main.py*](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py).
