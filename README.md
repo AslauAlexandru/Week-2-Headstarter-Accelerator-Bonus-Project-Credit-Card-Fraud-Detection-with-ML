@@ -1,6 +1,7 @@
 # Week 2 Headstarter Accelerator Bonus Project: Credit Card Fraud Detection with ML
 Week 2 Headstarter Accelerator Bonus Project: Credit Card Fraud Detection with ML
 In this project, your task is to build an ML model to determine whether or not a credit card transaction is fraudulent or not.
+
 [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data) from Kaggle. Simulated Credit Card Transactions generated using Sparkov.
 
 ## About Dataset
