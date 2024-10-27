@@ -12,8 +12,8 @@ This is a simulated credit card transaction dataset containing legitimate and fr
 First I run in the google colab (or you can do in jupyter notebook local), after that download the machine learning models as ```.pkl``` pickle. Second I upload the machine learning models as ```.pkl``` pickle to Replit (or you cand do in other evironment). In my case I use these steps. Google colab [*Week_2_Headstarter_Accelerator_Bonus_Project_Credit_Card_Fraud_Detection_with_ML.ipynb*](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/Week_2_Headstarter_Accelerator_Bonus_Project_Credit_Card_Fraud_Detection_with_ML.ipynb) and [web app](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py) [*main.py*](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py).
 
 ## Web application with streamlit
-I use Replit for [web application]().
-The [web app]() utilizes the following machine learning models for churn prediction:
+I use Replit for [web application](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py).
+The [web app](https://github.com/AslauAlexandru/Week-2-Headstarter-Accelerator-Bonus-Project-Credit-Card-Fraud-Detection-with-ML/blob/main/main.py) utilizes the following machine learning models for churn prediction:
 - **XGBoost**
 - **Random Forest**
 - **K-Nearest Neighbors**
